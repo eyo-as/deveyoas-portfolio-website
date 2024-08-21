@@ -73,15 +73,15 @@ export const projects = [
   {
     id: 1,
     title: "Evangadi Forum",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "A platform for coding students to ask questions and share knowledge.",
     img: "/forum.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "http://forumfrontend.deveyoas.com/",
   },
   {
     id: 2,
     title: "Amazon Clone",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    des: "An e-commerce site modeled after Amazon.",
     img: "/photo-1649734926695-1b1664e98842.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://deveyoas-amazon-clone.netlify.app/",
@@ -89,19 +89,11 @@ export const projects = [
   {
     id: 3,
     title: "Netflix Clone",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    des: "A replica of the Netflix streaming service.",
     img: "/netflix.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://deveyoas-netflix-clone.vercel.app/",
   },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "/ui.apple.com",
-  // },
 ];
 
 export const testimonials = [
