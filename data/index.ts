@@ -202,7 +202,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/link.svg",
-    url: "https://www.linkedin.com/in/eyosiyas-tumiso-91aa9b278",
+    url: "https://www.linkedin.com/in/eyosiyas-tumiso",
   },
   {
     id: 3,
